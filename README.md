@@ -42,6 +42,7 @@ pip install opencv-contrib-python
 or 
 
 ```
+
 pip install imageio==2.14.0
 pip install numpy==1.22.1
 pip install onnx==1.10.2
@@ -56,7 +57,6 @@ pip install skimage==0.0
 pip install tensorflow==2.7.0
 pip install tf_slim==1.1.0
 pip install torch==1.10.1
-
 
 ```
 

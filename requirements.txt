@@ -1,0 +1,13 @@
+imageio==2.14.0
+numpy==1.22.1
+onnx==1.10.2
+onnxoptimizer==0.2.6
+onnxruntime==1.10.0
+opencv_python_headless==3.4.17.61
+Pillow==9.0.1
+scikit_image==0.19.1
+scipy==1.7.3
+skimage==0.0
+tensorflow==2.7.0
+tf_slim==1.1.0
+torch==1.10.1

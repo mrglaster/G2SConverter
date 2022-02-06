@@ -312,4 +312,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-#example run: python converter.py --input cactus.mdl  --studiomdl   "D:\\SteamLibrary\\steamapps\\common\\Team Fortress 2\\bin\\studiomdl.exe" --compiled "D:\\SteamLibrary\\steamapps\\common\\Team Fortress 2\\tf\\models\\"  --upscaling True --scaling_factor 4 --normalmaps True --deconvolution True --iterations 1

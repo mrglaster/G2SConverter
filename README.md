@@ -1,5 +1,5 @@
 # G2SConverter
-Convert models from GoldSource engine to Source engine with AI
+Convert models from GoldSource engine to Source engine with AIs
 
 ### Description
 
@@ -77,8 +77,8 @@ python converter.py --input cactus.mdl  --studiomdl   "D:\\SteamLibrary\\steamap
 | Argument | Type | Description |
 | --- | --- | --- |
 | `--input` | String | Patho to model file or to folder with models |
-| `--studiomdl` | String | Path to *studiomdl.exe*, you can find in * common\<gamename>\<gamefolder>\bin\studiomdl.exe (italic)*  |
-| `--compiled` | String | Path to the folder with models of the game whose studiomdl.exe you are usingю * common\<gamename>\<gamefolder>\models (italic)* |
+| `--studiomdl` | String | Path to *studiomdl.exe*, you can find here: ../common/gamefolder/bin/studiomdl.exe  |
+| `--compiled` | String | Path to the folder with models of the game whose studiomdl.exe you are using:  ../common/gamefolder/gamename/models  |
 | `--upscaling` | Boolean | Should the program  upscale model textures? |
 | `--scaling_factor`| Integer | Upscaling scale factor. Allowed values: 2, 4, 8 |
 | `--normalmaps` | Boolean | Should the program generate normal maps for textures ? |

@@ -77,8 +77,8 @@ python converter.py --input cactus.mdl  --studiomdl   "D:\\SteamLibrary\\steamap
 | Argument | Type | Description |
 | --- | --- | --- |
 | `--input` | String | Patho to model file or to folder with models |
-| `--studiomdl` | String | Path to *studiomdl.exe*, you can find in ../Source_Engine_Game/bin/studiomdl.exe  or something like that |
-| `--compiled` | String | Path to the folder with models of the game whose studiomdl.exe you are using |
+| `--studiomdl` | String | Path to *studiomdl.exe*, you can find in * common\<gamename>\<gamefolder>\bin\studiomdl.exe (italic)*  |
+| `--compiled` | String | Path to the folder with models of the game whose studiomdl.exe you are usingю * common\<gamename>\<gamefolder>\models (italic)* |
 | `--upscaling` | Boolean | Should the program  upscale model textures? |
 | `--scaling_factor`| Integer | Upscaling scale factor. Allowed values: 2, 4, 8 |
 | `--normalmaps` | Boolean | Should the program generate normal maps for textures ? |
@@ -88,8 +88,11 @@ python converter.py --input cactus.mdl  --studiomdl   "D:\\SteamLibrary\\steamap
 ## Links
 
 https://github.com/jiangsutx/SRN-Deblur - Scale-recurrent Network for Deep Image Deblurring
+
 https://github.com/xinntao/Real-ESRGAN - RealESRGAN
+
 https://github.com/HugoTini/DeepBump - DeepBumb by HugoTini
+
 https://github.com/NeilJed/VTFLib - VTFLib 
 
 Models and textures demonstrated here: Gunamn Chronicles by Rewolf Software

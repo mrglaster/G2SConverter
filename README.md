@@ -76,7 +76,7 @@ python converter.py --input cactus.mdl  --studiomdl   "D:\\SteamLibrary\\steamap
 
 | Argument | Type | Description |
 | --- | --- | --- |
-| `--input` | String | Patho to model file or to folder with models |
+| `--input` | String | Path to model file or to folder with models |
 | `--studiomdl` | String | Path to *studiomdl.exe*, you can find here: ../common/gamefolder/bin/studiomdl.exe  |
 | `--compiled` | String | Path to the folder with models of the game whose studiomdl.exe you are using:  ../common/gamefolder/gamename/models  |
 | `--upscaling` | Boolean | Should the program  upscale model textures? |

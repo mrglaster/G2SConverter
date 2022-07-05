@@ -35,7 +35,7 @@ besides upscaling and debluring the utility also generates normal maps for each 
 ### Step 1: Install required libraries
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 pip install opencv-contrib-python
 ```
 

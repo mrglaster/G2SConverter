@@ -15,7 +15,7 @@ All operations to improve the quality of textures are performed by neural networ
 ![Screenshot](ex_2.png)
 
 
-## Operations with textires
+## Operations with textures
 
 ### Upscaling and debluring
 

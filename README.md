@@ -85,6 +85,14 @@ python converter.py --input cactus.mdl  --studiomdl   "D:\\SteamLibrary\\steamap
 | `--deconvolution` | Boolean | Should the program deblur textures ? |
 | `--iterations` | Integer | How many deconvolution iterations should the program do? Recomended: 4-8, Max: 10 |
 
+## Contacts
+
+if you have questions about usage / you encounter a model that the utility was unable to process / you have another problems, my contacts are:
+
+1) E-Mail: pristavkaegor03@gmail.com
+2) Steam: https://steamcommunity.com/id/mrglaster
+3) VK: https://vk.com/pristavka2013
+
 ## Links
 
 https://github.com/jiangsutx/SRN-Deblur - Scale-recurrent Network for Deep Image Deblurring
